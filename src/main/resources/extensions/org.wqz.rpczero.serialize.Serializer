@@ -1,0 +1,2 @@
+kyro=org.wqz.rpczero.serialize.kyro.KryoSerializer
+protostuff=org.wqz.rpczero.serialize.protostuff.ProtostuffSerializer
